@@ -1,0 +1,755 @@
+﻿Region, Date, Frequency, unemployment_rate,estimated_employee,Labour_Participation_ Rate,Area
+Andhra Pradesh, 31-05-2019, Monthly,3.65,11999139,43.24,Rural
+Andhra Pradesh, 30-06-2019, Monthly,3.05,11755881,42.05,Rural
+Andhra Pradesh, 31-07-2019, Monthly,3.75,12086707,43.5,Rural
+Andhra Pradesh, 31-08-2019, Monthly,3.32,12285693,43.97,Rural
+Andhra Pradesh, 30-09-2019, Monthly,5.17,12256762,44.68,Rural
+Andhra Pradesh, 31-10-2019, Monthly,3.52,12017412,43.01,Rural
+Andhra Pradesh, 30-11-2019, Monthly,4.12,11397681,41,Rural
+Andhra Pradesh, 31-12-2019, Monthly,4.38,12528395,45.14,Rural
+Andhra Pradesh, 31-01-2020, Monthly,4.84,12016676,43.46,Rural
+Andhra Pradesh, 29-02-2020, Monthly,5.91,11723617,42.83,Rural
+Andhra Pradesh, 31-03-2020, Monthly,4.06,11359660,40.66,Rural
+Andhra Pradesh, 30-04-2020, Monthly,16.29,8792827,36.03,Rural
+Andhra Pradesh, 31-05-2020, Monthly,14.46,9526902,38.16,Rural
+Andhra Pradesh, 30-06-2020, Monthly,0.85,15572975,53.76,Rural
+Assam, 31-05-2019, Monthly,4.29,11749334,57.39,Rural
+Assam, 30-06-2019, Monthly,5.08,8923222,43.87,Rural
+Assam, 31-07-2019, Monthly,4.26,9911534,48.21,Rural
+Assam, 31-08-2019, Monthly,5.79,9292039,45.83,Rural
+Assam, 30-09-2019, Monthly,4.46,11468349,55.67,Rural
+Assam, 31-10-2019, Monthly,4.65,8395906,40.76,Rural
+Assam, 30-11-2019, Monthly,4.66,9625362,46.64,Rural
+Assam, 31-01-2020, Monthly,4.29,11420996,54.9,Rural
+Assam, 29-02-2020, Monthly,3.26,8462814,40.17,Rural
+Assam, 31-03-2020, Monthly,3.77,9878742,47.05,Rural
+Assam, 31-05-2020, Monthly,9.38,9926176,50,Rural
+Assam, 30-06-2020, Monthly,0,7544937,34.38,Rural
+Bihar, 31-05-2019, Monthly,9.27,24322330,39.75,Rural
+Bihar, 30-06-2019, Monthly,10.2,24097712,39.71,Rural
+Bihar, 31-07-2019, Monthly,13.44,23248875,39.66,Rural
+Bihar, 31-08-2019, Monthly,11,22260203,36.85,Rural
+Bihar, 30-09-2019, Monthly,8.87,23905700,38.57,Rural
+Bihar, 31-10-2019, Monthly,12.47,24053140,40.31,Rural
+Bihar, 30-11-2019, Monthly,12.4,22445989,37.51,Rural
+Bihar, 31-12-2019, Monthly,10.16,22914530,37.25,Rural
+Bihar, 31-01-2020, Monthly,9.13,23409006,37.54,Rural
+Bihar, 29-02-2020, Monthly,9.61,23168192,37.28,Rural
+Bihar, 31-03-2020, Monthly,15.39,22667882,38.88,Rural
+Bihar, 30-04-2020, Monthly,45.09,14645275,38.63,Rural
+Bihar, 31-05-2020, Monthly,47.26,14050319,38.5,Rural
+Bihar, 30-06-2020, Monthly,20.49,20622566,37.4,Rural
+Chhattisgarh, 31-05-2019, Monthly,9.82,6259019,42.89,Rural
+Chhattisgarh, 30-06-2019, Monthly,6.76,6608626,43.71,Rural
+Chhattisgarh, 31-07-2019, Monthly,4.54,6753622,43.53,Rural
+Chhattisgarh, 31-08-2019, Monthly,4.64,6607694,42.55,Rural
+Chhattisgarh, 30-09-2019, Monthly,8.33,6490776,43.38,Rural
+Chhattisgarh, 31-10-2019, Monthly,6.96,7043840,46.28,Rural
+Chhattisgarh, 30-11-2019, Monthly,2.77,6942931,43.56,Rural
+Chhattisgarh, 31-12-2019, Monthly,6.11,6569385,42.59,Rural
+Chhattisgarh, 31-01-2020, Monthly,9.89,6236201,42.03,Rural
+Chhattisgarh, 29-02-2020, Monthly,7.89,6847173,45.05,Rural
+Chhattisgarh, 31-03-2020, Monthly,7.31,6894808,44.98,Rural
+Chhattisgarh, 30-04-2020, Monthly,0,6534321,39.43,Rural
+Chhattisgarh, 31-05-2020, Monthly,7.64,5454091,35.56,Rural
+Chhattisgarh, 30-06-2020, Monthly,10.14,5781095,38.66,Rural
+Delhi, 31-05-2019, Monthly,12.56,169487,42.33,Rural
+Delhi, 30-06-2019, Monthly,9.33,149076,35.74,Rural
+Delhi, 31-07-2019, Monthly,11.07,166605,40.53,Rural
+Delhi, 31-08-2019, Monthly,17.18,135407,35.21,Rural
+Delhi, 30-09-2019, Monthly,12.5,166056,40.68,Rural
+Delhi, 31-10-2019, Monthly,15.84,149511,37.9,Rural
+Delhi, 30-11-2019, Monthly,11.11,178768,42.71,Rural
+Delhi, 31-12-2019, Monthly,16.97,145671,37.08,Rural
+Delhi, 31-01-2020, Monthly,13.48,157791,38.36,Rural
+Delhi, 29-02-2020, Monthly,13.81,147500,35.84,Rural
+Delhi, 31-03-2020, Monthly,15.18,152413,37.45,Rural
+Delhi, 30-04-2020, Monthly,20.69,115487,30.21,Rural
+Delhi, 31-05-2020, Monthly,22.76,129610,34.65,Rural
+Delhi, 30-06-2020, Monthly,21.14,112108,29.22,Rural
+Goa, 31-05-2019, Monthly,2.91,179340,39.16,Rural
+Goa, 30-06-2019, Monthly,5.45,170471,38.19,Rural
+Goa, 31-07-2019, Monthly,10.98,167437,39.81,Rural
+Goa, 31-08-2019, Monthly,1.98,183603,39.61,Rural
+Goa, 30-09-2019, Monthly,3.61,163215,35.78,Rural
+Goa, 31-10-2019, Monthly,7.21,177440,40.36,Rural
+Goa, 30-11-2019, Monthly,23.71,159489,44.09,Rural
+Goa, 31-12-2019, Monthly,3.54,177155,38.7,Rural
+Goa, 31-01-2020, Monthly,5.38,158936,35.36,Rural
+Goa, 29-02-2020, Monthly,0,171672,36.11,Rural
+Goa, 30-04-2020, Monthly,15.91,181657,45.36,Rural
+Goa, 31-05-2020, Monthly,20,128538,33.71,Rural
+Gujarat, 31-05-2019, Monthly,2.88,13954728,52.03,Rural
+Gujarat, 30-06-2019, Monthly,4.77,13199281,50.12,Rural
+Gujarat, 31-07-2019, Monthly,4.58,14327083,54.21,Rural
+Gujarat, 31-08-2019, Monthly,3.7,13507342,50.57,Rural
+Gujarat, 30-09-2019, Monthly,6.29,13280783,51.01,Rural
+Gujarat, 31-10-2019, Monthly,4.91,13828512,52.27,Rural
+Gujarat, 30-11-2019, Monthly,4.68,14487815,54.55,Rural
+Gujarat, 31-12-2019, Monthly,3.46,13877825,51.51,Rural
+Gujarat, 31-01-2020, Monthly,5.35,14301844,54.07,Rural
+Gujarat, 29-02-2020, Monthly,6.64,13973042,53.48,Rural
+Gujarat, 31-03-2020, Monthly,7.59,13483615,52.06,Rural
+Gujarat, 30-04-2020, Monthly,12,8587594,34.77,Rural
+Gujarat, 31-05-2020, Monthly,14.58,11121124,46.31,Rural
+Gujarat, 30-06-2020, Monthly,1.41,13243922,47.72,Rural
+Haryana, 31-05-2019, Monthly,14.54,5249186,45.12,Rural
+Haryana, 30-06-2019, Monthly,23.08,4745178,45.23,Rural
+Haryana, 31-07-2019, Monthly,16.22,4826560,42.17,Rural
+Haryana, 31-08-2019, Monthly,30.94,4558306,48.23,Rural
+Haryana, 30-09-2019, Monthly,16.36,5127956,44.72,Rural
+Haryana, 31-10-2019, Monthly,24.17,4798833,46.07,Rural
+Haryana, 30-11-2019, Monthly,16.59,4875763,42.48,Rural
+Haryana, 31-12-2019, Monthly,29.56,4603484,47.4,Rural
+Haryana, 31-01-2020, Monthly,16.21,5062293,43.74,Rural
+Haryana, 29-02-2020, Monthly,27.19,4570108,45.37,Rural
+Haryana, 31-03-2020, Monthly,23.92,4366148,41.4,Rural
+Haryana, 30-04-2020, Monthly,41.61,4041050,49.85,Rural
+Haryana, 31-05-2020, Monthly,34.22,3914193,42.78,Rural
+Haryana, 30-06-2020, Monthly,35.57,4357835,48.53,Rural
+Himachal Pradesh, 31-05-2019, Monthly,13.68,2045760,44.23,Rural
+Himachal Pradesh, 30-06-2019, Monthly,11.43,1957081,41.18,Rural
+Himachal Pradesh, 31-07-2019, Monthly,20.59,1916824,44.91,Rural
+Himachal Pradesh, 31-08-2019, Monthly,18.56,1969248,44.91,Rural
+Himachal Pradesh, 30-09-2019, Monthly,15.98,2039804,45.02,Rural
+Himachal Pradesh, 31-10-2019, Monthly,15.81,1946957,42.81,Rural
+Himachal Pradesh, 30-11-2019, Monthly,22.86,2024409,48.5,Rural
+Himachal Pradesh, 31-12-2019, Monthly,19.46,1922821,44.05,Rural
+Himachal Pradesh, 31-01-2020, Monthly,16.67,2041035,45.11,Rural
+Himachal Pradesh, 29-02-2020, Monthly,15.42,1952464,42.45,Rural
+Himachal Pradesh, 31-03-2020, Monthly,17.71,1800426,40.17,Rural
+Himachal Pradesh, 30-04-2020, Monthly,2.13,984171,18.43,Rural
+Himachal Pradesh, 31-05-2020, Monthly,25.64,1732050,42.62,Rural
+Himachal Pradesh, 30-06-2020, Monthly,1.12,2230075,41.2,Rural
+Jammu & Kashmir, 31-05-2019, Monthly,12.78,2495186,40.57,Rural
+Jammu & Kashmir, 30-06-2019, Monthly,12.09,2423742,39.02,Rural
+Jammu & Kashmir, 31-07-2019, Monthly,13.67,2549316,41.71,Rural
+Jammu & Kashmir, 31-08-2019, Monthly,11.32,2778624,44.17,Rural
+Jammu & Kashmir, 31-10-2019, Monthly,19.27,2477621,43.08,Rural
+Jammu & Kashmir, 30-11-2019, Monthly,14.73,2415724,39.69,Rural
+Jammu & Kashmir, 31-01-2020, Monthly,22.19,2373488,42.56,Rural
+Jammu & Kashmir, 29-02-2020, Monthly,21.23,2163397,38.25,Rural
+Jammu & Kashmir, 31-03-2020, Monthly,16,2361004,39.06,Rural
+Jammu & Kashmir, 31-05-2020, Monthly,2.22,2716966,38.46,Rural
+Jammu & Kashmir, 30-06-2020, Monthly,18.97,2049617,34.94,Rural
+Jharkhand, 31-05-2019, Monthly,7.11,7035766,39.04,Rural
+Jharkhand, 30-06-2019, Monthly,8.46,7319782,41.12,Rural
+Jharkhand, 31-07-2019, Monthly,9.98,6958404,39.66,Rural
+Jharkhand, 31-08-2019, Monthly,12.06,7015356,40.83,Rural
+Jharkhand, 30-09-2019, Monthly,7.12,7500122,41.24,Rural
+Jharkhand, 31-10-2019, Monthly,6.57,7761243,42.33,Rural
+Jharkhand, 30-11-2019, Monthly,8.07,7279628,40.26,Rural
+Jharkhand, 31-12-2019, Monthly,15.15,6873437,41.09,Rural
+Jharkhand, 31-01-2020, Monthly,6.16,7868736,42.43,Rural
+Jharkhand, 29-02-2020, Monthly,9.06,7932402,44.05,Rural
+Jharkhand, 31-03-2020, Monthly,5.01,7157454,37.96,Rural
+Jharkhand, 30-04-2020, Monthly,41.72,4280434,36.92,Rural
+Jharkhand, 31-05-2020, Monthly,55.1,3315038,37.03,Rural
+Jharkhand, 30-06-2020, Monthly,21.53,6375114,40.65,Rural
+Karnataka, 31-05-2019, Monthly,5.46,13911440,46.36,Rural
+Karnataka, 30-06-2019, Monthly,5.98,12888490,43.12,Rural
+Karnataka, 31-07-2019, Monthly,0.52,12169808,38.42,Rural
+Karnataka, 31-08-2019, Monthly,0.37,12686470,39.93,Rural
+Karnataka, 30-09-2019, Monthly,3.2,13741892,44.45,Rural
+Karnataka, 31-10-2019, Monthly,7.13,12803527,43.1,Rural
+Karnataka, 30-11-2019, Monthly,1.19,11537217,36.45,Rural
+Karnataka, 31-12-2019, Monthly,0.41,12756132,39.92,Rural
+Karnataka, 31-01-2020, Monthly,2.57,13938874,44.52,Rural
+Karnataka, 29-02-2020, Monthly,4.11,12753657,41.33,Rural
+Karnataka, 31-03-2020, Monthly,2.39,12853818,40.85,Rural
+Karnataka, 30-04-2020, Monthly,33.17,9330400,43.25,Rural
+Karnataka, 31-05-2020, Monthly,23.72,10626328,43.09,Rural
+Karnataka, 30-06-2020, Monthly,10.92,15396213,53.37,Rural
+Kerala, 31-05-2019, Monthly,6.63,5184355,38.07,Rural
+Kerala, 30-06-2019, Monthly,9,5605627,42.19,Rural
+Kerala, 31-07-2019, Monthly,4.95,4855393,34.96,Rural
+Kerala, 31-08-2019, Monthly,10.32,5233449,39.9,Rural
+Kerala, 30-09-2019, Monthly,5.35,5400499,38.97,Rural
+Kerala, 31-10-2019, Monthly,9.14,5328825,40.02,Rural
+Kerala, 30-11-2019, Monthly,5,4557906,32.71,Rural
+Kerala, 31-12-2019, Monthly,10.77,5065804,38.67,Rural
+Kerala, 31-01-2020, Monthly,4.11,5307026,37.66,Rural
+Kerala, 29-02-2020, Monthly,8.91,5203579,38.84,Rural
+Kerala, 31-03-2020, Monthly,8.85,4141953,30.87,Rural
+Kerala, 30-04-2020, Monthly,10.71,1754170,13.33,Rural
+Kerala, 31-05-2020, Monthly,23.38,3799919,33.62,Rural
+Kerala, 30-06-2020, Monthly,27.66,3952088,37.01,Rural
+Madhya Pradesh, 31-05-2019, Monthly,3.63,15349838,37.97,Rural
+Madhya Pradesh, 30-06-2019, Monthly,4.25,16294794,40.48,Rural
+Madhya Pradesh, 31-07-2019, Monthly,3.92,16274707,40.2,Rural
+Madhya Pradesh, 31-08-2019, Monthly,4.94,16559137,41.25,Rural
+Madhya Pradesh, 30-09-2019, Monthly,3.08,16159315,39.4,Rural
+Madhya Pradesh, 31-10-2019, Monthly,2.98,17060638,41.46,Rural
+Madhya Pradesh, 30-11-2019, Monthly,2.72,16306428,39.44,Rural
+Madhya Pradesh, 31-12-2019, Monthly,2.94,16854647,40.77,Rural
+Madhya Pradesh, 31-01-2020, Monthly,3.66,16183702,39.35,Rural
+Madhya Pradesh, 29-02-2020, Monthly,4.42,16178044,39.57,Rural
+Madhya Pradesh, 31-03-2020, Monthly,1.19,16480441,38.9,Rural
+Madhya Pradesh, 30-04-2020, Monthly,12.5,14238959,37.88,Rural
+Madhya Pradesh, 31-05-2020, Monthly,22.46,13099601,39.24,Rural
+Madhya Pradesh, 30-06-2020, Monthly,6.46,16748971,41.5,Rural
+Maharashtra, 31-05-2019, Monthly,3.67,23896858,47.11,Rural
+Maharashtra, 30-06-2019, Monthly,4.34,23056511,45.69,Rural
+Maharashtra, 31-07-2019, Monthly,3.66,24843750,48.8,Rural
+Maharashtra, 31-08-2019, Monthly,3.76,26835389,52.67,Rural
+Maharashtra, 30-09-2019, Monthly,4.4,25219281,49.74,Rural
+Maharashtra, 31-10-2019, Monthly,3.81,24330249,47.61,Rural
+Maharashtra, 30-11-2019, Monthly,3.68,24881383,48.53,Rural
+Maharashtra, 31-12-2019, Monthly,3.03,26357625,50.98,Rural
+Maharashtra, 31-01-2020, Monthly,3.8,25881398,50.36,Rural
+Maharashtra, 29-02-2020, Monthly,4.24,25293535,49.36,Rural
+Maharashtra, 31-03-2020, Monthly,5.38,23130976,45.6,Rural
+Maharashtra, 30-04-2020, Monthly,25.28,15014802,37.42,Rural
+Maharashtra, 31-05-2020, Monthly,16.89,18423447,41.21,Rural
+Maharashtra, 30-06-2020, Monthly,9.4,23601016,48.34,Rural
+Meghalaya, 31-05-2019, Monthly,3.16,1119011,66.13,Rural
+Meghalaya, 30-06-2019, Monthly,4.23,1024797,61.09,Rural
+Meghalaya, 31-07-2019, Monthly,1.03,1158511,66.67,Rural
+Meghalaya, 31-08-2019, Monthly,0.52,1065725,60.86,Rural
+Meghalaya, 30-09-2019, Monthly,0.24,1162159,66.02,Rural
+Meghalaya, 31-10-2019, Monthly,3.7,1080609,63.44,Rural
+Meghalaya, 30-11-2019, Monthly,1.5,1205703,69.03,Rural
+Meghalaya, 31-12-2019, Monthly,1.8,1102997,63.18,Rural
+Meghalaya, 31-01-2020, Monthly,0.97,1229406,69.66,Rural
+Meghalaya, 29-02-2020, Monthly,2.76,1112864,64.06,Rural
+Meghalaya, 31-03-2020, Monthly,1.28,1192616,67.46,Rural
+Meghalaya, 30-04-2020, Monthly,8.38,803118,48.83,Rural
+Meghalaya, 31-05-2020, Monthly,3.73,992148,57.26,Rural
+Meghalaya, 30-06-2020, Monthly,1.35,1150200,64.63,Rural
+Odisha, 31-05-2019, Monthly,4.17,11155753,40.47,Rural
+Odisha, 30-06-2019, Monthly,4.71,10965154,39.94,Rural
+Odisha, 31-07-2019, Monthly,3.31,12009883,43.05,Rural
+Odisha, 31-08-2019, Monthly,3.68,11727659,42.13,Rural
+Odisha, 30-09-2019, Monthly,4.31,11167715,40.32,Rural
+Odisha, 31-10-2019, Monthly,4.28,11621534,41.88,Rural
+Odisha, 30-11-2019, Monthly,4.72,12192623,44.06,Rural
+Odisha, 31-12-2019, Monthly,4.67,11345069,40.91,Rural
+Odisha, 31-01-2020, Monthly,1.81,11182128,39.09,Rural
+Odisha, 29-02-2020, Monthly,3.31,11842655,41.98,Rural
+Odisha, 31-03-2020, Monthly,15.09,9814156,39.55,Rural
+Odisha, 30-04-2020, Monthly,24.48,5562449,25.16,Rural
+Odisha, 31-05-2020, Monthly,9.45,9683719,36.48,Rural
+Odisha, 30-06-2020, Monthly,4.59,10187145,36.36,Rural
+Puducherry, 31-05-2019, Monthly,0,172474,43.08,Rural
+Puducherry, 30-06-2019, Monthly,0,184527,45.95,Rural
+Puducherry, 31-07-2019, Monthly,0,139227,34.56,Rural
+Puducherry, 31-08-2019, Monthly,4.85,183930,47.83,Rural
+Puducherry, 30-09-2019, Monthly,0,175718,43.34,Rural
+Puducherry, 31-10-2019, Monthly,1.18,180283,44.85,Rural
+Puducherry, 30-11-2019, Monthly,0,142787,35,Rural
+Puducherry, 31-12-2019, Monthly,1.99,180808,45.07,Rural
+Puducherry, 31-01-2020, Monthly,0.58,176252,43.18,Rural
+Puducherry, 29-02-2020, Monthly,1.74,183619,45.38,Rural
+Puducherry, 31-03-2020, Monthly,2.31,142176,35.23,Rural
+Puducherry, 30-04-2020, Monthly,74.51,49420,46.79,Rural
+Punjab, 31-05-2019, Monthly,9.17,6088547,44.79,Rural
+Punjab, 30-06-2019, Monthly,12.21,6025235,45.79,Rural
+Punjab, 31-07-2019, Monthly,9.64,6308129,46.5,Rural
+Punjab, 31-08-2019, Monthly,6.69,6183427,44.08,Rural
+Punjab, 30-09-2019, Monthly,8.59,6260971,45.49,Rural
+Punjab, 31-10-2019, Monthly,12.56,6021921,45.66,Rural
+Punjab, 30-11-2019, Monthly,7.07,6395022,45.55,Rural
+Punjab, 31-12-2019, Monthly,6.13,6164215,43.4,Rural
+Punjab, 31-01-2020, Monthly,9.69,6189471,45.22,Rural
+Punjab, 29-02-2020, Monthly,10.41,6009820,44.19,Rural
+Punjab, 31-03-2020, Monthly,10.51,6373692,46.85,Rural
+Punjab, 30-04-2020, Monthly,3.69,4721590,32.2,Rural
+Punjab, 31-05-2020, Monthly,40.59,3727366,41.14,Rural
+Punjab, 30-06-2020, Monthly,20,5364047,43.9,Rural
+Rajasthan, 31-05-2019, Monthly,4.03,15226005,38.52,Rural
+Rajasthan, 30-06-2019, Monthly,13.7,14610564,41.02,Rural
+Rajasthan, 31-07-2019, Monthly,9.7,14859873,39.78,Rural
+Rajasthan, 31-08-2019, Monthly,12.5,15052051,41.48,Rural
+Rajasthan, 30-09-2019, Monthly,5.45,15419779,39.24,Rural
+Rajasthan, 31-10-2019, Monthly,14.66,15178544,42.69,Rural
+Rajasthan, 30-11-2019, Monthly,10.47,15278556,40.87,Rural
+Rajasthan, 31-12-2019, Monthly,13.96,15485307,43,Rural
+Rajasthan, 31-01-2020, Monthly,8,15484353,40.12,Rural
+Rajasthan, 29-02-2020, Monthly,14.48,15040572,41.83,Rural
+Rajasthan, 31-03-2020, Monthly,9.47,15059769,39.47,Rural
+Rajasthan, 30-04-2020, Monthly,12.25,13051219,35.21,Rural
+Rajasthan, 31-05-2020, Monthly,10.45,15586833,41.11,Rural
+Rajasthan, 30-06-2020, Monthly,13.86,16076978,43.98,Rural
+Sikkim, 31-10-2019, Monthly,5.48,146688,44.06,Rural
+Sikkim, 30-11-2019, Monthly,13.11,162426,53.04,Rural
+Sikkim, 31-12-2019, Monthly,1,161647,46.3,Rural
+Sikkim, 30-04-2020, Monthly,0,133399,37.72,Rural
+Sikkim, 30-06-2020, Monthly,5.81,141313,42.36,Rural
+Tamil Nadu, 31-05-2019, Monthly,0.97,15844698,49.44,Rural
+Tamil Nadu, 30-06-2019, Monthly,0.92,16375303,50.99,Rural
+Tamil Nadu, 31-07-2019, Monthly,6.01,16455928,53.94,Rural
+Tamil Nadu, 31-08-2019, Monthly,2.91,16463931,52.17,Rural
+Tamil Nadu, 30-09-2019, Monthly,1.71,14595441,45.62,Rural
+Tamil Nadu, 31-10-2019, Monthly,1.46,15595647,48.55,Rural
+Tamil Nadu, 30-11-2019, Monthly,2.46,16223430,50.95,Rural
+Tamil Nadu, 31-12-2019, Monthly,3.73,15356938,48.8,Rural
+Tamil Nadu, 31-01-2020, Monthly,1.18,14954646,46.23,Rural
+Tamil Nadu, 29-02-2020, Monthly,1.17,15828488,48.86,Rural
+Tamil Nadu, 31-03-2020, Monthly,6.36,15848590,51.56,Rural
+Tamil Nadu, 30-04-2020, Monthly,53.19,5086200,33.05,Rural
+Tamil Nadu, 31-05-2020, Monthly,38.73,5768342,28.6,Rural
+Tamil Nadu, 30-06-2020, Monthly,2.06,10169115,31.49,Rural
+Telangana, 31-05-2019, Monthly,2.23,11053353,61.74,Rural
+Telangana, 30-06-2019, Monthly,5.92,10728822,62.19,Rural
+Telangana, 31-07-2019, Monthly,2.45,11538688,64.4,Rural
+Telangana, 31-08-2019, Monthly,1.4,10743959,59.23,Rural
+Telangana, 30-09-2019, Monthly,5.49,12636415,72.57,Rural
+Telangana, 31-10-2019, Monthly,7.29,11375354,66.49,Rural
+Telangana, 30-11-2019, Monthly,6.47,11265828,65.17,Rural
+Telangana, 31-12-2019, Monthly,1.35,11068056,60.61,Rural
+Telangana, 31-01-2020, Monthly,5.02,12065915,68.51,Rural
+Telangana, 29-02-2020, Monthly,9.02,11304474,66.92,Rural
+Telangana, 31-03-2020, Monthly,5.63,12028377,68.53,Rural
+Telangana, 30-04-2020, Monthly,4.51,8793799,49.44,Rural
+Telangana, 31-05-2020, Monthly,34.01,7508747,61,Rural
+Telangana, 30-06-2020, Monthly,19.3,8891181,58.97,Rural
+Tripura, 31-05-2019, Monthly,29.25,1019549,64.47,Rural
+Tripura, 30-06-2019, Monthly,26.64,1107013,67.4,Rural
+Tripura, 31-07-2019, Monthly,22.47,1052597,60.54,Rural
+Tripura, 31-08-2019, Monthly,25.49,975501,58.29,Rural
+Tripura, 30-09-2019, Monthly,30.23,1034408,65.9,Rural
+Tripura, 31-10-2019, Monthly,27.54,1113764,68.21,Rural
+Tripura, 30-11-2019, Monthly,25.25,1084633,64.29,Rural
+Tripura, 31-12-2019, Monthly,26.53,1046878,63.02,Rural
+Tripura, 31-01-2020, Monthly,31.91,1057975,68.61,Rural
+Tripura, 29-02-2020, Monthly,26.22,1169347,69.88,Rural
+Tripura, 31-03-2020, Monthly,31.61,1060946,68.28,Rural
+Tripura, 30-04-2020, Monthly,43.64,675083,52.63,Rural
+Tripura, 31-05-2020, Monthly,14.71,911789,46.9,Rural
+Tripura, 30-06-2020, Monthly,18.84,1106978,59.74,Rural
+Uttar Pradesh, 31-05-2019, Monthly,10.26,43287808,39.96,Rural
+Uttar Pradesh, 30-06-2019, Monthly,11.13,42276572,39.32,Rural
+Uttar Pradesh, 31-07-2019, Monthly,9.19,42697000,38.78,Rural
+Uttar Pradesh, 31-08-2019, Monthly,11.47,43298746,40.24,Rural
+Uttar Pradesh, 30-09-2019, Monthly,6.45,44198762,38.79,Rural
+Uttar Pradesh, 31-10-2019, Monthly,10.18,42833265,39.07,Rural
+Uttar Pradesh, 30-11-2019, Monthly,6.94,43261530,38.01,Rural
+Uttar Pradesh, 31-12-2019, Monthly,8.43,44640087,39.77,Rural
+Uttar Pradesh, 31-01-2020, Monthly,6.06,45777509,39.67,Rural
+Uttar Pradesh, 29-02-2020, Monthly,8.12,44257432,39.13,Rural
+Uttar Pradesh, 31-03-2020, Monthly,9.37,43086706,38.53,Rural
+Uttar Pradesh, 30-04-2020, Monthly,19.92,39970677,40.37,Rural
+Uttar Pradesh, 31-05-2020, Monthly,16.89,38640999,37.52,Rural
+Uttar Pradesh, 30-06-2020, Monthly,8.51,41908909,36.89,Rural
+Uttarakhand, 31-05-2019, Monthly,1.63,2108044,37.47,Rural
+Uttarakhand, 30-06-2019, Monthly,4.65,2021553,37.01,Rural
+Uttarakhand, 31-07-2019, Monthly,5.74,2000524,36.97,Rural
+Uttarakhand, 31-08-2019, Monthly,6.11,1911380,35.39,Rural
+Uttarakhand, 30-09-2019, Monthly,3.47,2157845,38.79,Rural
+Uttarakhand, 31-10-2019, Monthly,4.83,2027662,36.9,Rural
+Uttarakhand, 30-11-2019, Monthly,5.56,2007113,36.73,Rural
+Uttarakhand, 31-12-2019, Monthly,4.52,1947566,35.19,Rural
+Uttarakhand, 31-01-2020, Monthly,4.17,1986386,35.69,Rural
+Uttarakhand, 29-02-2020, Monthly,4.85,2057523,37.16,Rural
+Uttarakhand, 30-04-2020, Monthly,3.66,1972074,35.04,Rural
+Uttarakhand, 31-05-2020, Monthly,3.57,1915482,33.94,Rural
+Uttarakhand, 30-06-2020, Monthly,10.71,1675441,32,Rural
+West Bengal, 31-05-2019, Monthly,6.02,23452875,46.41,Rural
+West Bengal, 30-06-2019, Monthly,5.85,25543465,50.36,Rural
+West Bengal, 31-07-2019, Monthly,5.62,24857807,48.78,Rural
+West Bengal, 31-08-2019, Monthly,5.58,24924827,48.79,Rural
+West Bengal, 30-09-2019, Monthly,5.26,25610773,49.87,Rural
+West Bengal, 31-10-2019, Monthly,6.78,24353018,48.09,Rural
+West Bengal, 30-11-2019, Monthly,5.83,25630359,50,Rural
+West Bengal, 31-12-2019, Monthly,5.79,24906239,48.47,Rural
+West Bengal, 31-01-2020, Monthly,6.79,24612171,48.3,Rural
+West Bengal, 29-02-2020, Monthly,3.78,26093009,49.51,Rural
+West Bengal, 31-03-2020, Monthly,7.02,25097812,49.18,Rural
+West Bengal, 30-04-2020, Monthly,18.32,17639370,39.27,Rural
+West Bengal, 31-05-2020, Monthly,18.43,19115772,42.53,Rural
+West Bengal, 30-06-2020, Monthly,4.94,21225887,40.44,Rural
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Andhra Pradesh, 31-05-2019,Monthly,6.09,4788661,37.45,Urban
+Andhra Pradesh, 30-06-2019,Monthly,3.8,4824630,36.76,Urban
+Andhra Pradesh, 31-07-2019,Monthly,5.64,4657443,36.1,Urban
+Andhra Pradesh, 31-08-2019,Monthly,4.61,4743179,36.29,Urban
+Andhra Pradesh, 30-09-2019,Monthly,6.01,4733996,36.69,Urban
+Andhra Pradesh, 31-10-2019,Monthly,4.7,4774377,36.41,Urban
+Andhra Pradesh, 30-11-2019,Monthly,7.54,4668772,36.62,Urban
+Andhra Pradesh, 31-12-2019,Monthly,7.88,4913963,38.61,Urban
+Andhra Pradesh, 31-01-2020,Monthly,7.11,4618860,35.91,Urban
+Andhra Pradesh, 29-02-2020,Monthly,5.66,4822035,36.84,Urban
+Andhra Pradesh, 31-03-2020,Monthly,9.88,4521537,36.08,Urban
+Andhra Pradesh, 30-04-2020,Monthly,32.3,2544084,26.97,Urban
+Andhra Pradesh, 31-05-2020,Monthly,24.91,3428356,32.69,Urban
+Andhra Pradesh, 30-06-2020,Monthly,5.86,4954389,37.61,Urban
+Assam, 31-05-2019,Monthly,7.87,1671707,44.92,Urban
+Assam, 30-06-2019,Monthly,9.89,1647342,45.17,Urban
+Assam, 31-07-2019,Monthly,3.21,1739838,44.32,Urban
+Assam, 31-08-2019,Monthly,10.39,1595582,43.81,Urban
+Assam, 30-09-2019,Monthly,9.26,1576480,42.66,Urban
+Assam, 31-10-2019,Monthly,11.17,1595176,44.01,Urban
+Assam, 30-11-2019,Monthly,6.31,1708045,44.59,Urban
+Assam, 31-12-2019,Monthly,5.02,1722303,44.26,Urban
+Assam, 31-01-2020,Monthly,7.24,1630908,42.82,Urban
+Assam, 29-02-2020,Monthly,9.98,1625454,43.9,Urban
+Assam, 31-03-2020,Monthly,10.34,1664145,45.03,Urban
+Assam, 30-04-2020,Monthly,8.37,1454956,38.45,Urban
+Assam, 31-05-2020,Monthly,10.77,1441722,39.04,Urban
+Assam, 30-06-2020,Monthly,3.42,1551007,38.73,Urban
+Bihar, 31-05-2019,Monthly,19.9,3029344,39.8,Urban
+Bihar, 30-06-2019,Monthly,13.29,3248864,39.35,Urban
+Bihar, 31-07-2019,Monthly,16.41,3059744,38.36,Urban
+Bihar, 31-08-2019,Monthly,17.66,2994763,38.03,Urban
+Bihar, 30-09-2019,Monthly,20.46,2992082,39.25,Urban
+Bihar, 31-10-2019,Monthly,14.06,3173429,38.45,Urban
+Bihar, 30-11-2019,Monthly,17.62,3081077,38.86,Urban
+Bihar, 31-12-2019,Monthly,14.91,2977857,36.29,Urban
+Bihar, 31-01-2020,Monthly,20.69,2988665,38.99,Urban
+Bihar, 29-02-2020,Monthly,15.11,3113464,37.87,Urban
+Bihar, 31-03-2020,Monthly,15.73,3049637,37.29,Urban
+Bihar, 30-04-2020,Monthly,58.77,1400962,34.94,Urban
+Bihar, 31-05-2020,Monthly,37.87,2207026,36.45,Urban
+Bihar, 30-06-2020,Monthly,12.45,3124663,36.54,Urban
+Chandigarh, 31-05-2019,Monthly,18.35,348042,44.89,Urban
+Chandigarh, 30-06-2019,Monthly,12.4,337145,40.44,Urban
+Chandigarh, 31-07-2019,Monthly,21.8,294379,39.47,Urban
+Chandigarh, 31-08-2019,Monthly,9.52,328282,37.95,Urban
+Chandigarh, 30-09-2019,Monthly,20.14,327239,42.77,Urban
+Chandigarh, 31-10-2019,Monthly,13.99,330856,40.06,Urban
+Chandigarh, 30-11-2019,Monthly,22.05,289593,38.6,Urban
+Chandigarh, 31-12-2019,Monthly,8.33,311146,35.19,Urban
+Chandigarh, 31-01-2020,Monthly,20,332062,42.94,Urban
+Chandigarh, 29-02-2020,Monthly,16.67,316887,39.25,Urban
+Chandigarh, 31-03-2020,Monthly,21.43,279839,36.68,Urban
+Chandigarh, 30-06-2020,Monthly,7.22,306505,33.8,Urban
+Chhattisgarh, 31-05-2019,Monthly,9.77,2223129,45.61,Urban
+Chhattisgarh, 30-06-2019,Monthly,11.77,2192020,45.88,Urban
+Chhattisgarh, 31-07-2019,Monthly,8.17,2285436,45.85,Urban
+Chhattisgarh, 31-08-2019,Monthly,6.29,2392400,46.91,Urban
+Chhattisgarh, 30-09-2019,Monthly,9.46,2311507,46.8,Urban
+Chhattisgarh, 31-10-2019,Monthly,10.27,2297096,46.82,Urban
+Chhattisgarh, 30-11-2019,Monthly,8.32,2341284,46.59,Urban
+Chhattisgarh, 31-12-2019,Monthly,3.57,2415436,45.59,Urban
+Chhattisgarh, 31-01-2020,Monthly,9.01,2315972,46.21,Urban
+Chhattisgarh, 29-02-2020,Monthly,9.79,2347941,47.14,Urban
+Chhattisgarh, 31-03-2020,Monthly,8.21,2407509,47.39,Urban
+Chhattisgarh, 30-04-2020,Monthly,20.13,1066126,24.06,Urban
+Chhattisgarh, 31-05-2020,Monthly,24.1,1276291,30.24,Urban
+Chhattisgarh, 30-06-2020,Monthly,27.07,1602231,39.41,Urban
+Delhi, 31-05-2019,Monthly,12.31,5756475,44.17,Urban
+Delhi, 30-06-2019,Monthly,12.76,5550172,42.71,Urban
+Delhi, 31-07-2019,Monthly,14.68,5393091,42.34,Urban
+Delhi, 31-08-2019,Monthly,13.52,5552510,42.9,Urban
+Delhi, 30-09-2019,Monthly,20.59,5642253,47.36,Urban
+Delhi, 31-10-2019,Monthly,12.41,6030363,45.78,Urban
+Delhi, 30-11-2019,Monthly,16.11,5439600,43.02,Urban
+Delhi, 31-12-2019,Monthly,11.07,5718337,42.56,Urban
+Delhi, 31-01-2020,Monthly,22.45,5647493,48.09,Urban
+Delhi, 29-02-2020,Monthly,14.86,5708807,44.18,Urban
+Delhi, 31-03-2020,Monthly,17.09,5401392,42.82,Urban
+Delhi, 30-04-2020,Monthly,16.51,3003787,23.59,Urban
+Delhi, 31-05-2020,Monthly,45.78,2343783,28.28,Urban
+Delhi, 30-06-2020,Monthly,18.11,4306807,34.32,Urban
+Goa, 31-05-2019,Monthly,2.75,264855,34.17,Urban
+Goa, 30-06-2019,Monthly,13.33,304015,43.96,Urban
+Goa, 31-07-2019,Monthly,12.28,280367,40,Urban
+Goa, 31-08-2019,Monthly,4.9,243277,31.97,Urban
+Goa, 30-09-2019,Monthly,3.16,309643,39.92,Urban
+Goa, 31-10-2019,Monthly,12.31,290264,41.27,Urban
+Goa, 30-11-2019,Monthly,25.2,271612,45.22,Urban
+Goa, 31-12-2019,Monthly,16.22,288154,42.77,Urban
+Goa, 31-01-2020,Monthly,10.92,257814,35.95,Urban
+Goa, 29-02-2020,Monthly,4.31,306396,39.73,Urban
+Goa, 31-03-2020,Monthly,4.76,277093,36.05,Urban
+Goa, 30-04-2020,Monthly,11.76,318957,44.74,Urban
+Gujarat, 31-05-2019,Monthly,4.09,9686558,41.67,Urban
+Gujarat, 30-06-2019,Monthly,6.31,10144965,44.57,Urban
+Gujarat, 31-07-2019,Monthly,5.15,9828023,42.54,Urban
+Gujarat, 31-08-2019,Monthly,4.2,10228154,43.72,Urban
+Gujarat, 30-09-2019,Monthly,5.96,9609939,41.75,Urban
+Gujarat, 31-10-2019,Monthly,5.45,10474217,45.14,Urban
+Gujarat, 30-11-2019,Monthly,7.53,9896129,43.5,Urban
+Gujarat, 31-12-2019,Monthly,5.71,10172812,43.75,Urban
+Gujarat, 31-01-2020,Monthly,5.82,9824501,42.19,Urban
+Gujarat, 29-02-2020,Monthly,6.04,10784753,46.31,Urban
+Gujarat, 31-03-2020,Monthly,5.39,10083026,42.9,Urban
+Gujarat, 30-04-2020,Monthly,25.94,6701284,36.33,Urban
+Gujarat, 31-05-2020,Monthly,11.62,6072776,27.52,Urban
+Gujarat, 30-06-2020,Monthly,4.54,10574711,44.26,Urban
+Haryana, 31-05-2019,Monthly,24.67,2693596,43.18,Urban
+Haryana, 30-06-2019,Monthly,20.42,2845190,43.06,Urban
+Haryana, 31-07-2019,Monthly,25.45,2405973,38.77,Urban
+Haryana, 31-08-2019,Monthly,24.19,2523005,39.87,Urban
+Haryana, 30-09-2019,Monthly,26.84,2675862,43.7,Urban
+Haryana, 31-10-2019,Monthly,21.04,2821456,42.58,Urban
+Haryana, 30-11-2019,Monthly,27.06,2404239,39.18,Urban
+Haryana, 31-12-2019,Monthly,23.65,2548835,39.57,Urban
+Haryana, 31-01-2020,Monthly,27.24,2630938,42.75,Urban
+Haryana, 29-02-2020,Monthly,23.29,2752834,42.32,Urban
+Haryana, 31-03-2020,Monthly,27.14,2275407,36.73,Urban
+Haryana, 30-04-2020,Monthly,46.89,1606580,35.48,Urban
+Haryana, 31-05-2020,Monthly,38.46,2013083,38.27,Urban
+Haryana, 30-06-2020,Monthly,29.41,2304138,38.09,Urban
+Himachal Pradesh, 31-05-2019,Monthly,10.88,245668,45.27,Urban
+Himachal Pradesh, 30-06-2019,Monthly,21.43,237576,49.58,Urban
+Himachal Pradesh, 31-07-2019,Monthly,21.51,235894,49.22,Urban
+Himachal Pradesh, 31-08-2019,Monthly,24.48,236315,51.17,Urban
+Himachal Pradesh, 30-09-2019,Monthly,12,247210,45.87,Urban
+Himachal Pradesh, 31-10-2019,Monthly,23.77,232322,49.69,Urban
+Himachal Pradesh, 30-11-2019,Monthly,27.27,233029,52.17,Urban
+Himachal Pradesh, 31-12-2019,Monthly,25.32,241366,52.55,Urban
+Himachal Pradesh, 31-01-2020,Monthly,18.15,246596,48.92,Urban
+Himachal Pradesh, 29-02-2020,Monthly,27.31,227804,50.82,Urban
+Himachal Pradesh, 31-03-2020,Monthly,26.44,221432,48.74,Urban
+Himachal Pradesh, 30-04-2020,Monthly,2.7,146957,24.42,Urban
+Himachal Pradesh, 31-05-2020,Monthly,50,134868,43.55,Urban
+Himachal Pradesh, 30-06-2020,Monthly,10.81,224902,40.66,Urban
+Jammu & Kashmir, 31-05-2019,Monthly,23.04,1130139,46.74,Urban
+Jammu & Kashmir, 30-06-2019,Monthly,19.88,1139815,45.17,Urban
+Jammu & Kashmir, 31-07-2019,Monthly,21.55,1183770,47.8,Urban
+Jammu & Kashmir, 31-10-2019,Monthly,24.06,1029087,42.63,Urban
+Jammu & Kashmir, 30-11-2019,Monthly,14.29,1226793,44.92,Urban
+Jammu & Kashmir, 31-12-2019,Monthly,7.02,1209085,40.71,Urban
+Jammu & Kashmir, 31-01-2020,Monthly,18.54,1079537,41.4,Urban
+Jammu & Kashmir, 29-02-2020,Monthly,19.86,1060116,41.23,Urban
+Jammu & Kashmir, 31-03-2020,Monthly,14.29,998103,36.21,Urban
+Jammu & Kashmir, 31-05-2020,Monthly,12.96,937435,33.33,Urban
+Jharkhand, 31-05-2019,Monthly,17.23,2404033,43.25,Urban
+Jharkhand, 30-06-2019,Monthly,20.51,2326911,43.51,Urban
+Jharkhand, 31-07-2019,Monthly,15.67,2434579,42.82,Urban
+Jharkhand, 31-08-2019,Monthly,20.25,2335406,43.35,Urban
+Jharkhand, 30-09-2019,Monthly,21.16,2357627,44.18,Urban
+Jharkhand, 31-10-2019,Monthly,19.05,2460196,44.82,Urban
+Jharkhand, 30-11-2019,Monthly,17.34,2424281,43.17,Urban
+Jharkhand, 31-12-2019,Monthly,22.01,2290170,43.14,Urban
+Jharkhand, 31-01-2020,Monthly,22.96,2329293,44.33,Urban
+Jharkhand, 29-02-2020,Monthly,19.67,2493023,45.42,Urban
+Jharkhand, 31-03-2020,Monthly,16.4,2480661,43.34,Urban
+Jharkhand, 30-04-2020,Monthly,61.48,1054829,39.92,Urban
+Jharkhand, 31-05-2020,Monthly,70.17,830347,40.49,Urban
+Jharkhand, 30-06-2020,Monthly,19.38,2244460,40.43,Urban
+Karnataka, 31-05-2019,Monthly,6.56,8638239,40.62,Urban
+Karnataka, 30-06-2019,Monthly,5,8862498,40.89,Urban
+Karnataka, 31-07-2019,Monthly,2.29,8738029,39.09,Urban
+Karnataka, 31-08-2019,Monthly,1.27,8614340,38.04,Urban
+Karnataka, 30-09-2019,Monthly,3.57,8647794,39,Urban
+Karnataka, 31-10-2019,Monthly,3.87,8799249,39.7,Urban
+Karnataka, 30-11-2019,Monthly,3.44,8613835,38.6,Urban
+Karnataka, 31-12-2019,Monthly,1.56,8592376,37.66,Urban
+Karnataka, 31-01-2020,Monthly,3.31,8749154,38.94,Urban
+Karnataka, 29-02-2020,Monthly,2.88,8924061,39.45,Urban
+Karnataka, 31-03-2020,Monthly,4.92,9225835,41.55,Urban
+Karnataka, 30-04-2020,Monthly,25.12,7387995,42.14,Urban
+Karnataka, 31-05-2020,Monthly,15.88,8669258,43.9,Urban
+Karnataka, 30-06-2020,Monthly,6.12,8822411,39.93,Urban
+Kerala, 31-05-2019,Monthly,6.11,4605913,36.65,Urban
+Kerala, 30-06-2019,Monthly,6.67,4678374,37.42,Urban
+Kerala, 31-07-2019,Monthly,7.58,4105211,33.13,Urban
+Kerala, 31-08-2019,Monthly,7.69,4448650,35.91,Urban
+Kerala, 30-09-2019,Monthly,5.52,4640642,36.57,Urban
+Kerala, 31-10-2019,Monthly,5.35,4644510,36.49,Urban
+Kerala, 30-11-2019,Monthly,6.71,4062767,32.36,Urban
+Kerala, 31-12-2019,Monthly,7.31,4440283,35.56,Urban
+Kerala, 31-01-2020,Monthly,6.65,4597507,36.53,Urban
+Kerala, 29-02-2020,Monthly,6.08,4624444,36.48,Urban
+Kerala, 31-03-2020,Monthly,9.14,4079775,33.24,Urban
+Kerala, 30-04-2020,Monthly,21.43,2179106,20.51,Urban
+Kerala, 31-05-2020,Monthly,30.28,2826118,29.95,Urban
+Kerala, 30-06-2020,Monthly,12.17,4601293,38.68,Urban
+Madhya Pradesh, 31-05-2019,Monthly,3.91,6692720,38.96,Urban
+Madhya Pradesh, 30-06-2019,Monthly,6.38,6509340,38.8,Urban
+Madhya Pradesh, 31-07-2019,Monthly,7.38,6266446,37.67,Urban
+Madhya Pradesh, 31-08-2019,Monthly,6.82,6809834,40.6,Urban
+Madhya Pradesh, 30-09-2019,Monthly,7,6655967,39.67,Urban
+Madhya Pradesh, 31-10-2019,Monthly,4.4,6603715,38.2,Urban
+Madhya Pradesh, 30-11-2019,Monthly,6.06,6459457,37.94,Urban
+Madhya Pradesh, 31-12-2019,Monthly,6.2,6787403,39.83,Urban
+Madhya Pradesh, 31-01-2020,Monthly,5.17,6834930,39.59,Urban
+Madhya Pradesh, 29-02-2020,Monthly,4.96,6533435,37.68,Urban
+Madhya Pradesh, 31-03-2020,Monthly,4.8,6386723,36.68,Urban
+Madhya Pradesh, 30-04-2020,Monthly,11.94,4802873,29.76,Urban
+Madhya Pradesh, 31-05-2020,Monthly,40.49,3879934,35.49,Urban
+Madhya Pradesh, 30-06-2020,Monthly,12.72,6221562,38.72,Urban
+Maharashtra, 31-05-2019,Monthly,6.08,16962574,38.3,Urban
+Maharashtra, 30-06-2019,Monthly,6.46,17375053,39.3,Urban
+Maharashtra, 31-07-2019,Monthly,6.35,17215677,38.81,Urban
+Maharashtra, 31-08-2019,Monthly,7.57,16602767,37.84,Urban
+Maharashtra, 30-09-2019,Monthly,7.6,17396398,39.58,Urban
+Maharashtra, 31-10-2019,Monthly,7.51,17221991,39.05,Urban
+Maharashtra, 30-11-2019,Monthly,7.6,17486683,39.61,Urban
+Maharashtra, 31-12-2019,Monthly,7.83,16581144,37.57,Urban
+Maharashtra, 31-01-2020,Monthly,6.67,16715470,37.32,Urban
+Maharashtra, 29-02-2020,Monthly,5.34,17122782,37.61,Urban
+Maharashtra, 31-03-2020,Monthly,6.34,17065830,37.8,Urban
+Maharashtra, 30-04-2020,Monthly,14.99,12674451,30.86,Urban
+Maharashtra, 31-05-2020,Monthly,15.92,12365754,30.38,Urban
+Maharashtra, 30-06-2020,Monthly,10.01,16172690,37.04,Urban
+Meghalaya, 31-05-2019,Monthly,8.4,228978,47.79,Urban
+Meghalaya, 30-06-2019,Monthly,8.66,231252,48.29,Urban
+Meghalaya, 31-07-2019,Monthly,4.43,284015,56.55,Urban
+Meghalaya, 31-08-2019,Monthly,5.8,259433,52.27,Urban
+Meghalaya, 30-09-2019,Monthly,5.3,253887,50.77,Urban
+Meghalaya, 31-10-2019,Monthly,7.2,234375,47.71,Urban
+Meghalaya, 30-11-2019,Monthly,3.02,293431,57.02,Urban
+Meghalaya, 31-12-2019,Monthly,5.21,267417,53.04,Urban
+Meghalaya, 31-01-2020,Monthly,4.76,261687,51.53,Urban
+Meghalaya, 29-02-2020,Monthly,7.37,233965,47.26,Urban
+Meghalaya, 31-03-2020,Monthly,2.8,289735,55.64,Urban
+Meghalaya, 30-04-2020,Monthly,17.39,161939,36.51,Urban
+Meghalaya, 31-05-2020,Monthly,14.58,222916,48.48,Urban
+Odisha, 31-05-2019,Monthly,2.95,2519582,41.26,Urban
+Odisha, 30-06-2019,Monthly,2.63,2356290,38.39,Urban
+Odisha, 31-07-2019,Monthly,1.78,2542237,40.99,Urban
+Odisha, 31-08-2019,Monthly,3.5,2456983,40.25,Urban
+Odisha, 30-09-2019,Monthly,3.78,2570663,42.15,Urban
+Odisha, 31-10-2019,Monthly,4.5,2456855,40.51,Urban
+Odisha, 30-11-2019,Monthly,2.23,2594469,41.71,Urban
+Odisha, 31-12-2019,Monthly,3.36,2369048,38.46,Urban
+Odisha, 31-01-2020,Monthly,2.28,2561320,41.05,Urban
+Odisha, 29-02-2020,Monthly,2.19,2438080,38.97,Urban
+Odisha, 31-03-2020,Monthly,3.96,2457952,39.93,Urban
+Odisha, 30-04-2020,Monthly,20.5,1303244,25.53,Urban
+Odisha, 31-05-2020,Monthly,10,1975481,34.12,Urban
+Odisha, 30-06-2020,Monthly,2.18,2221069,35.24,Urban
+Puducherry, 31-05-2019,Monthly,1.25,283905,35.71,Urban
+Puducherry, 30-06-2019,Monthly,0,304369,37.73,Urban
+Puducherry, 31-07-2019,Monthly,0,281117,34.77,Urban
+Puducherry, 31-08-2019,Monthly,8.95,312882,42.41,Urban
+Puducherry, 30-09-2019,Monthly,1.22,286573,35.73,Urban
+Puducherry, 31-10-2019,Monthly,1.17,312548,38.86,Urban
+Puducherry, 30-11-2019,Monthly,1.37,275003,34.19,Urban
+Puducherry, 31-12-2019,Monthly,5.21,313135,40.42,Urban
+Puducherry, 31-01-2020,Monthly,0.57,281698,34.59,Urban
+Puducherry, 29-02-2020,Monthly,1.78,310342,38.5,Urban
+Puducherry, 31-03-2020,Monthly,0.62,278851,34.12,Urban
+Puducherry, 30-04-2020,Monthly,76.74,68122,35.54,Urban
+Puducherry, 31-05-2020,Monthly,75,64538,31.25,Urban
+Puducherry, 30-06-2020,Monthly,4.55,234926,29.73,Urban
+Punjab, 31-05-2019,Monthly,13.49,3289918,40.03,Urban
+Punjab, 30-06-2019,Monthly,13.17,3307798,40.02,Urban
+Punjab, 31-07-2019,Monthly,11.61,3592442,42.62,Urban
+Punjab, 31-08-2019,Monthly,11.99,3499863,41.61,Urban
+Punjab, 30-09-2019,Monthly,15.69,3227178,39.97,Urban
+Punjab, 31-10-2019,Monthly,13.75,3070438,37.1,Urban
+Punjab, 30-11-2019,Monthly,10.39,3602243,41.82,Urban
+Punjab, 31-12-2019,Monthly,11.97,3575778,42.17,Urban
+Punjab, 31-01-2020,Monthly,13.68,3252622,39.04,Urban
+Punjab, 29-02-2020,Monthly,11.99,3219227,37.82,Urban
+Punjab, 31-03-2020,Monthly,9.97,3601793,41.29,Urban
+Punjab, 30-04-2020,Monthly,1.13,2298975,23.95,Urban
+Punjab, 31-05-2020,Monthly,20.54,2682658,34.71,Urban
+Punjab, 30-06-2020,Monthly,10.55,3047750,34.96,Urban
+Rajasthan, 31-05-2019,Monthly,13.62,5108436,39.44,Urban
+Rajasthan, 30-06-2019,Monthly,14.36,5241174,40.73,Urban
+Rajasthan, 31-07-2019,Monthly,11.67,5372470,40.38,Urban
+Rajasthan, 31-08-2019,Monthly,14.71,5195170,40.34,Urban
+Rajasthan, 30-09-2019,Monthly,12.63,5176819,39.15,Urban
+Rajasthan, 31-10-2019,Monthly,13.02,5384335,40.8,Urban
+Rajasthan, 30-11-2019,Monthly,14.3,5306715,40.73,Urban
+Rajasthan, 31-12-2019,Monthly,18.04,5109481,40.9,Urban
+Rajasthan, 31-01-2020,Monthly,18.82,5157363,41.59,Urban
+Rajasthan, 29-02-2020,Monthly,17.02,5288343,41.62,Urban
+Rajasthan, 31-03-2020,Monthly,18.54,4964911,39.71,Urban
+Rajasthan, 30-04-2020,Monthly,35.53,2932923,29.57,Urban
+Rajasthan, 31-05-2020,Monthly,25.35,4225486,36.71,Urban
+Rajasthan, 30-06-2020,Monthly,13.04,5275784,39.26,Urban
+Sikkim, 31-05-2019,Monthly,8.2,89587,48.61,Urban
+Sikkim, 30-06-2019,Monthly,7.76,89702,48.13,Urban
+Sikkim, 31-07-2019,Monthly,2.56,108334,54.67,Urban
+Sikkim, 31-08-2019,Monthly,4.82,90850,46.63,Urban
+Sikkim, 30-09-2019,Monthly,4.81,89450,45.61,Urban
+Sikkim, 31-10-2019,Monthly,9.68,87974,46.97,Urban
+Sikkim, 30-11-2019,Monthly,4.04,107751,53.8,Urban
+Sikkim, 31-12-2019,Monthly,7.37,88035,45.24,Urban
+Sikkim, 31-03-2020,Monthly,20.45,86186,50.57,Urban
+Sikkim, 30-04-2020,Monthly,5.77,81905,40.31,Urban
+Sikkim, 31-05-2020,Monthly,19.75,75456,43.32,Urban
+Sikkim, 30-06-2020,Monthly,2.63,76269,35.85,Urban
+Tamil Nadu, 31-05-2019,Monthly,0.89,11798080,37.31,Urban
+Tamil Nadu, 30-06-2019,Monthly,1.56,12318745,39.16,Urban
+Tamil Nadu, 31-07-2019,Monthly,3.18,12054414,38.89,Urban
+Tamil Nadu, 31-08-2019,Monthly,9.53,11933093,41.13,Urban
+Tamil Nadu, 30-09-2019,Monthly,1.86,11902824,37.76,Urban
+Tamil Nadu, 31-10-2019,Monthly,1.13,12223948,38.42,Urban
+Tamil Nadu, 30-11-2019,Monthly,2.65,11729952,37.38,Urban
+Tamil Nadu, 31-12-2019,Monthly,8.05,12260389,41.29,Urban
+Tamil Nadu, 31-01-2020,Monthly,2.05,11926995,37.64,Urban
+Tamil Nadu, 29-02-2020,Monthly,3.31,11742101,37.48,Urban
+Tamil Nadu, 31-03-2020,Monthly,6.46,10982178,36.17,Urban
+Tamil Nadu, 30-04-2020,Monthly,45.55,4632967,26.17,Urban
+Tamil Nadu, 31-05-2020,Monthly,25.95,5733921,23.77,Urban
+Tamil Nadu, 30-06-2020,Monthly,24.93,7741005,31.6,Urban
+Telangana, 31-05-2019,Monthly,1.52,5560649,44.59,Urban
+Telangana, 30-06-2019,Monthly,1.43,5683349,45.43,Urban
+Telangana, 31-07-2019,Monthly,3.73,5432503,44.36,Urban
+Telangana, 31-08-2019,Monthly,4.19,5544693,45.39,Urban
+Telangana, 30-09-2019,Monthly,6.19,5668785,47.28,Urban
+Telangana, 31-10-2019,Monthly,6.74,5318341,44.51,Urban
+Telangana, 30-11-2019,Monthly,5.23,5338119,43.87,Urban
+Telangana, 31-12-2019,Monthly,4.22,5317782,43.13,Urban
+Telangana, 31-01-2020,Monthly,6.49,5543380,45.95,Urban
+Telangana, 29-02-2020,Monthly,6.74,5521496,45.78,Urban
+Telangana, 31-03-2020,Monthly,6.1,5313236,43.65,Urban
+Telangana, 30-04-2020,Monthly,10.5,3378431,29.05,Urban
+Telangana, 31-05-2020,Monthly,36.57,3108830,37.63,Urban
+Telangana, 30-06-2020,Monthly,6.92,4577995,37.68,Urban
+Tripura, 31-05-2019,Monthly,34.69,423127,69.5,Urban
+Tripura, 30-06-2019,Monthly,25.59,408738,58.8,Urban
+Tripura, 31-07-2019,Monthly,25.81,410583,59.1,Urban
+Tripura, 31-08-2019,Monthly,33.45,368977,59.07,Urban
+Tripura, 30-09-2019,Monthly,33.57,418043,66.9,Urban
+Tripura, 31-10-2019,Monthly,26.67,414808,60,Urban
+Tripura, 30-11-2019,Monthly,27.15,427700,62.14,Urban
+Tripura, 31-12-2019,Monthly,33.48,399427,63.41,Urban
+Tripura, 31-01-2020,Monthly,34.37,450155,72.26,Urban
+Tripura, 29-02-2020,Monthly,33.88,415339,66.04,Urban
+Tripura, 31-03-2020,Monthly,25.69,450271,63.56,Urban
+Tripura, 30-04-2020,Monthly,34.88,296431,47.65,Urban
+Tripura, 31-05-2020,Monthly,16.78,384999,48.31,Urban
+Tripura, 30-06-2020,Monthly,27.47,391015,56.17,Urban
+Uttar Pradesh, 31-05-2019,Monthly,14.4,13391244,40.43,Urban
+Uttar Pradesh, 30-06-2019,Monthly,11.62,13624452,39.75,Urban
+Uttar Pradesh, 31-07-2019,Monthly,11.8,13862431,40.43,Urban
+Uttar Pradesh, 31-08-2019,Monthly,14.73,13580241,40.87,Urban
+Uttar Pradesh, 30-09-2019,Monthly,13.58,13522970,40.07,Urban
+Uttar Pradesh, 31-10-2019,Monthly,10.35,13938303,39.71,Urban
+Uttar Pradesh, 30-11-2019,Monthly,11.31,14128888,40.6,Urban
+Uttar Pradesh, 31-12-2019,Monthly,12.37,13857200,40.21,Urban
+Uttar Pradesh, 31-01-2020,Monthly,12.34,13656250,39.52,Urban
+Uttar Pradesh, 29-02-2020,Monthly,11.65,13803099,39.54,Urban
+Uttar Pradesh, 31-03-2020,Monthly,12.32,13889632,40,Urban
+Uttar Pradesh, 30-04-2020,Monthly,26.94,10944379,37.74,Urban
+Uttar Pradesh, 31-05-2020,Monthly,32.06,11111486,41.1,Urban
+Uttar Pradesh, 30-06-2020,Monthly,13.05,13208724,38.09,Urban
+Uttarakhand, 31-05-2019,Monthly,9.17,676797,26.33,Urban
+Uttarakhand, 30-06-2019,Monthly,4.69,906889,33.54,Urban
+Uttarakhand, 31-07-2019,Monthly,6.94,859900,32.48,Urban
+Uttarakhand, 31-08-2019,Monthly,7.43,823967,31.21,Urban
+Uttarakhand, 30-09-2019,Monthly,9.62,711150,27.51,Urban
+Uttarakhand, 31-10-2019,Monthly,4.72,925174,33.87,Urban
+Uttarakhand, 30-11-2019,Monthly,6.34,904903,33.61,Urban
+Uttarakhand, 31-12-2019,Monthly,7.39,844779,31.65,Urban
+Uttarakhand, 31-01-2020,Monthly,8.92,725253,27.55,Urban
+Uttarakhand, 29-02-2020,Monthly,5.28,963408,35.11,Urban
+Uttarakhand, 31-03-2020,Monthly,8.15,889245,33.33,Urban
+Uttarakhand, 30-04-2020,Monthly,13.18,748041,29.59,Urban
+Uttarakhand, 31-05-2020,Monthly,17.36,778590,32.27,Urban
+Uttarakhand, 30-06-2020,Monthly,5.08,989470,35.61,Urban
+West Bengal, 31-05-2019,Monthly,7.25,11306177,46.37,Urban
+West Bengal, 30-06-2019,Monthly,7.38,10611498,43.51,Urban
+West Bengal, 31-07-2019,Monthly,7.91,10779829,44.38,Urban
+West Bengal, 31-08-2019,Monthly,7.27,11456493,46.77,Urban
+West Bengal, 30-09-2019,Monthly,7.79,11158649,45.74,Urban
+West Bengal, 31-10-2019,Monthly,7.83,10563686,43.25,Urban
+West Bengal, 30-11-2019,Monthly,6.61,10768462,43.44,Urban
+West Bengal, 31-12-2019,Monthly,7.24,11335696,45.97,Urban
+West Bengal, 31-01-2020,Monthly,7.27,11208617,45.39,Urban
+West Bengal, 29-02-2020,Monthly,7.55,10871168,44.09,Urban
+West Bengal, 31-03-2020,Monthly,6.67,10806105,43.34,Urban
+West Bengal, 30-04-2020,Monthly,15.63,9299466,41.2,Urban
+West Bengal, 31-05-2020,Monthly,15.22,9240903,40.67,Urban
+West Bengal, 30-06-2020,Monthly,9.86,9088931,37.57,Urban
